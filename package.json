@@ -1,6 +1,6 @@
 {
   "name": "nodesteamtrader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeSteamTrader is a tool to automate the sending of trade offers on Steam using the Steam Web API",
   "main": "index.js",
   "scripts": {

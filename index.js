@@ -1,5 +1,3 @@
-const { trade } = require('./main/trade');
+const SteamTradeBot = require('./main/trade');
 
-module.exports = {
-  trade,
-};
+module.exports = SteamTradeBot;
