@@ -1,0 +1,32 @@
+{
+  "name": "nodesteamtrader",
+  "version": "1.0.0",
+  "description": "NodeSteamTrader is a tool to automate the sending of trade offers on Steam using the Steam Web API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmugetsuu/NodeSteamTrader.git"
+  },
+  "keywords": [
+    "steam",
+    "trade",
+    "functions",
+    "api",
+    "webapi",
+    "steamapi"
+  ],
+  "author": "mmugetsuu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmugetsuu/NodeSteamTrader/issues"
+  },
+  "homepage": "https://github.com/mmugetsuu/NodeSteamTrader#readme",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "querystring": "^0.2.1",
+    "steam-user": "^5.0.10"
+  }
+}
